@@ -35,7 +35,7 @@ elif [ "$OS" = "Linux" ]; then
 
     chmod +x ionet-setup.sh && ./ionet-setup.sh
 
-    sudo apt install curl
+    sudo apt install curl -y
 
     rm -rf launch_binary_linux
 
