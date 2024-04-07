@@ -17,11 +17,11 @@ Paste the following command into your terminal:
 ### 2. Worker Command
 
 
-![](image1.png)
+![](./images/image1.png)
 
 * At this step, we will use the launch command that we used when creating the Worker. You can access the command by selecting the relevant worker from the Workers tab.
 
-![](image2.jpg)
+![](./images/image2.jpg)
 
 
 ### 3.  Period Selection
@@ -29,7 +29,7 @@ Paste the following command into your terminal:
 
 
 
- ![](image3.png)
+ ![](./images/image3.png)
 
 
 * At this step, we choose the working period.
@@ -43,5 +43,5 @@ Paste the following command into your terminal:
 ##### Enter delay in seconds (default is 60):
 * You can leave the question as 60 seconds or choose the interval you want the restart process to occur
 
-   ![](image4.png)
+   ![](./images/image4.png)
 

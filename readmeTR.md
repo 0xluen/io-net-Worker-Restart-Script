@@ -17,16 +17,16 @@ Aşağıdaki komutu terminalimize yapıştıralım :
 ### 2. Worker Komutu
 
 
-![](image1.png)
+![](./images/image1.png)
 
 * Bu adımda Worker oluştururken kullandığımız launch komutunu kullanacağız. Komuta Workers sekmesinden ilgili workerı seçerek ulaşabilirsiniz. 
 
-![](image2.jpg)
+![](./images/image2.jpg)
 
 
 ### 3. Periyot Seçimi 
 
- ![](image3.png)
+ ![](./images/image3.png)
 
 
 * Bu adımda çalışma periyodu seçiyoruz.
@@ -40,5 +40,5 @@ Aşağıdaki komutu terminalimize yapıştıralım :
 ##### Enter delay in seconds (default is 60):
 * Sorusunu 60 saniye olarak bırakabilir veya restart işleminin gerçekleşmesini istediğiniz aralığı seçebilirsiniz.
 
-   ![](image4.png)
+   ![](./images/image4.png)
 
