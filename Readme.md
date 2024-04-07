@@ -8,7 +8,8 @@
 
 Aşağıdaki komutu terminalimize yapıştıralım : 
 
-<pre class="bash"><code>wget -O io.sh https://raw.githubusercontent.com/0xluen/io-net-Worker-Restart-Script/main/script.sh && chmod +x io.sh && ./io.sh
+<pre class="bash"><code>curl -o io.sh https://raw.githubusercontent.com/0xluen/io-net-Worker-Restart-Script/main/script.sh && chmod +x io.sh && ./io.sh
+
 </code></pre>
 
 
